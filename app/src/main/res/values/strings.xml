@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">SYIFA</string>
+    <string name="title_activity_lokasi">LokasiActivity</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="perlengkapan">Data Dokter</string>
+    <string name="tx_nama">Nama</string>
+    <string name="tx_deskripsi">Deskrpsi</string>
+    <string name="tx_keterangan">Keterangan</string>
+    <string name="signup"><u>Sign Up</u></string>
+
+    <!--    Judul Dashboar-->
+    <string name="judul">System Informasi RS</string>
+
+    <!--    name of button on dashboard-->
+    <string name="bantuan">Bantuan</string>
+    <string name="daftar">Daftar</string>
+    <string name="dokter">Dokter</string>
+    <string name="jadwal">Jadwal</string>
+    <string name="Kamar">Kamar</string>
+</resources>

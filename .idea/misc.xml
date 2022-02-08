@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/android studio {program}/Uas/syifa/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.19166666666666668" />
+        <entry key="..\:/android studio {program}/Uas/syifa/app/src/main/res/drawable-v24/tambah.xml" value="0.19166666666666668" />
+        <entry key="..\:/android studio {program}/Uas/syifa/app/src/main/res/drawable/bggradient.xml" value="0.10833333333333334" />
+        <entry key="..\:/android studio {program}/Uas/syifa/app/src/main/res/drawable/btnds1.xml" value="0.1" />
+        <entry key="..\:/android studio {program}/Uas/syifa/app/src/main/res/drawable/ic_launcher_background.xml" value="0.19166666666666668" />
+        <entry key="..\:/android studio {program}/Uas/syifa/app/src/main/res/layout/activity_bantuan.xml" value="0.264" />
+        <entry key="..\:/android studio {program}/Uas/syifa/app/src/main/res/layout/activity_daftar.xml" value="0.176" />
+        <entry key="..\:/android studio {program}/Uas/syifa/app/src/main/res/layout/activity_dashboard.xml" value="0.264" />
+        <entry key="..\:/android studio {program}/Uas/syifa/app/src/main/res/layout/activity_dokter.xml" value="0.1" />
+        <entry key="..\:/android studio {program}/Uas/syifa/app/src/main/res/layout/activity_jadwal.xml" value="0.17552083333333332" />
+        <entry key="..\:/android studio {program}/Uas/syifa/app/src/main/res/layout/activity_kamar.xml" value="0.17552083333333332" />
+        <entry key="..\:/android studio {program}/Uas/syifa/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/android studio {program}/Uas/syifa/app/src/main/res/layout/activity_register.xml" value="0.2" />
+        <entry key="..\:/android studio {program}/Uas/syifa/app/src/main/res/layout/activity_user.xml" value="0.49460431654676257" />
+        <entry key="..\:/android studio {program}/Uas/syifa/app/src/main/res/layout/custom_row.xml" value="0.39014647137150466" />
+        <entry key="..\:/android studio {program}/Uas/syifa/app/src/main/res/layout/fragment_list.xml" value="0.2" />
+        <entry key="..\:/android studio {program}/Uas/syifa/app/src/main/res/layout/fragment_tambah.xml" value="0.264" />
+        <entry key="..\:/android studio {program}/Uas/syifa/app/src/main/res/layout/fragment_update.xml" value="0.264" />
+        <entry key="..\:/android studio {program}/Uas/syifa/app/src/main/res/layout/list_item.xml" value="0.2" />
+        <entry key="..\:/android studio {program}/Uas/syifa/app/src/main/res/menu/menu_hapus.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

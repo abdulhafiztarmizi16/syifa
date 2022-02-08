@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "721521173822",
+    "project_id": "syifa-59903",
+    "storage_bucket": "syifa-59903.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721521173822:android:d95e88f25398e21b52786f",
+        "android_client_info": {
+          "package_name": "com.abdul_fiah.syifa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "721521173822-1g79dco1rsrpmq159uljp8vt2p1s0j4k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwSzMphp6aXTPp-xkFMJlciqDj1q8I3oY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "721521173822-1g79dco1rsrpmq159uljp8vt2p1s0j4k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
